@@ -11,6 +11,10 @@ This Flutter application provides a sleek digital debit card interface where use
 
 ## Screenshots
 ![PHOTO-2025-03-07-12-41-28](https://github.com/user-attachments/assets/649d145d-3819-4d4e-8f46-fea66962fec0)
+![image](https://github.com/user-attachments/assets/5a24a155-59f5-4732-894c-af1a965becf0)
+![image](https://github.com/user-attachments/assets/262f8ca4-de0c-4c39-a5d8-6fe8b93d67ef)
+
+
 
 
 ## Installation
